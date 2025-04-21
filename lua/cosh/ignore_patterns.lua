@@ -1,0 +1,20 @@
+-- lua/cosh/ignore_patterns.lua
+return {
+	"node_modules/",
+	".git/",
+	"dist/",
+	"build/",
+	"out/",
+	"target/",
+	"coverage/",
+	".cache/",
+	"logs/",
+	"__pycache__/",
+	"venv/",
+	".venv/",
+	"android/",
+	"ios/",
+	"tmp/",
+	".vscode/",
+	".idea/",
+}
